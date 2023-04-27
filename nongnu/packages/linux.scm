@@ -978,7 +978,7 @@ documented in the respective processor revision guides.")
                            version "/sof-bin-v" version ".tar.gz"))
        (sha256
         (base32
-         "ce8aaeba103aa56a82662552b0f33f33a859aa1008d8bfbc2c22f0ccfc8c6b3a"))))
+         "0fkbikycrw125jybzn0822m5ka1k7zrv0li5cs16m99s22xax2nf"))))
     (build-system copy-build-system)
     (arguments
      `(#:install-plan
