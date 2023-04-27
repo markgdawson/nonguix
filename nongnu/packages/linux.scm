@@ -970,7 +970,7 @@ documented in the respective processor revision guides.")
 (define-public sof-firmware
   (package
     (name "sof-firmware")
-    (version "2.5")
+    (version "2.2.4")
     (source
      (origin
        (method url-fetch)
